@@ -43,7 +43,7 @@ cd react-mui-dashboard
 ```bash
 npm install
 
-3.** Run Locally**
+3. ** Run Locally**
 
 ```bash
 npm start
